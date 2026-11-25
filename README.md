@@ -1,21 +1,15 @@
+[![make.fun · u-gentle-badger-68-monday-morning-punchlines-709645dc](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/vansouthrace/oneliner-monday-punchlines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/vansouthrace/oneliner-monday-punchlines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+
 # Monday Morning Punchlines
 
-[![Bounty](https://img.shields.io/badge/Bounty-u--gentle--badger--68--monday--morning--punchlines--709645dc-blue)](https://make.fun/c/u-gentle-badger-68-monday-morning-punchlines-709645dc)
-[![Rank](https://img.shields.io/badge/Rank-Open-green)](https://make.fun/c/u-gentle-badger-68-monday-morning-punchlines-709645dc)
-[![Reward](https://img.shields.io/badge/Reward-USDC-yellow)](https://make.fun/c/u-gentle-badger-68-monday-morning-punchlines-709645dc)
-
-A one-line joke about Monday mornings with a twist: not you dreading Monday, but your own shadow — the one thing that never leaves your side — clocking in late and filing an HR transfer request to Friday. The dread is so universal even your silhouette wants out.
+A one-line joke about Monday mornings. Instead of complaining about the day, it turns waking up into a meeting where the alarm, the bed, and I hold a vote — and unanimously reschedule.
 
 ## Entry
 
-> On Monday mornings, even my shadow clocks in late and asks HR for a transfer to Friday.
+> Monday is the one day my alarm, my bed, and I all vote to reschedule.
 
 ## How it works
 
-Run with Node 22.18+:
-
-```sh
-node main.ts
-```
-
-This writes the entry to `/output/entry.txt`.
+Run with Node 22.18+: `node main.ts`, writes the entry to /output/entry.txt.
